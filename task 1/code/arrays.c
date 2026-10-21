@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define N 1000000
-#define TIMES 10
+#define N 10000
+#define TIMES 1000000
 
 void staticArray() {
     static int arr[N];
