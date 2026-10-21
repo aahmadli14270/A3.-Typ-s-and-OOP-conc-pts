@@ -1,0 +1,15 @@
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/bin/Debug/net6.0/binding
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/bin/Debug/net6.0/binding.deps.json
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/bin/Debug/net6.0/binding.runtimeconfig.json
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/bin/Debug/net6.0/binding.dll
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/bin/Debug/net6.0/binding.pdb
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/obj/Debug/net6.0/binding.csproj.AssemblyReference.cache
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/obj/Debug/net6.0/binding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/obj/Debug/net6.0/binding.AssemblyInfoInputs.cache
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/obj/Debug/net6.0/binding.AssemblyInfo.cs
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/obj/Debug/net6.0/binding.csproj.CoreCompileInputs.cache
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/obj/Debug/net6.0/binding.dll
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/obj/Debug/net6.0/refint/binding.dll
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/obj/Debug/net6.0/binding.pdb
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/obj/Debug/net6.0/binding.genruntimeconfig.cache
+/Users/aahmadli14270/Desktop/A3. Typеs and OOP concеpts/task 2/code/obj/Debug/net6.0/ref/binding.dll
