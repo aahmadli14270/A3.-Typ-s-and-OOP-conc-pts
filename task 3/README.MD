@@ -1,5 +1,5 @@
 EXPLANATION OF CODE:
-There are 3 child classes - DVD, Book, CD which inherit from LibraryItem class. They have their separate initializers (constructors) but they also interit parent class's constructor too. Book class also uses parent class display function partially with super keyword. 
+There are 3 child classes - DVD, Book, CD which inherit from LibraryItem class. They have their separate initializers (constructors) but they also interit parent class's constructor too. Book class also utilizes parent class's display function with super keyword. 
 
 Additionally I also used attr_read (java getter method alternative) at LibraryItem, since I have additional method find_by_title which is outside of libraryItem. So, in order to make that function work, we need to use attr_read. Ruby only has access modifiers to methods unlike java language, so we cannot directly put public, protected, or private to make use of a field at outside of an object as I observed. 
 
