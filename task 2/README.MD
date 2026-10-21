@@ -27,5 +27,5 @@ Since dog inherits from Animal, it gets implementation of both functions at the 
 Now coming to the "new" Keyword: 
 Override keyword directly overrides dog's move function, it will have one move method. But in the case of "new" keyword, it just hides main class's method and has also new method like override case. So, if we do call dog.speak() it will be "Dog speak". But if we typecast it like this "((Animal)dog).Speak();" it will give "Animal Speak", because it also has animal's speak method. Unlike "new", If we do it with overriden function, it would give same result for both of it - "Dog Move".
 
-In code I didn't used typecasting to show that, instead I init Animal variables which points to dog object. So it is also gives same effect of ((Animal)dog).Speak(); - typecasting. 
+In code I didn't used typecasting to show that, instead I initialized Animal object which points to dog object. So it is also gives same effect of ((Animal)dog).Speak(); - typecasting. 
 
