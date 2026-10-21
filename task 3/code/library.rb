@@ -8,7 +8,7 @@ class LibraryItem
     @bought = false
   end
 
-  def checkout
+  def buy
     @bought = true
   end
 
@@ -145,7 +145,7 @@ class Library
   end
 end
 
-book = Book.new("Concepts of Programming Languages", "Robert Sebesta", 2015, "Programming", 745)
+book = Book.new("Əlqəmə", "Kəramət Böyükçöl", 2021, "Psychological Fiction", 160)
 dvd = DVD.new("Inception", "Christopher Nolan", 2010, "Science Fiction", 148)
 cd = CD.new("A Day at the Races", "Queen", 1976, "Rock", 10)
 
@@ -162,7 +162,7 @@ library.display_all_items
 
 puts "Count: #{library.count}"
 found = library.find_by_title("Inception")
-found.checkout
+found.buy
 found.display_info
 
 puts book
