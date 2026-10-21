@@ -33,9 +33,11 @@ class Program {
         Console.WriteLine("new:");
         dog.Speak();
         a.Speak();
+        ((Animal)dog).Speak();
 
         Console.WriteLine("override:");
         dog.Move();
         a.Move();
+        ((Animal)dog).Move();
     }
 }
